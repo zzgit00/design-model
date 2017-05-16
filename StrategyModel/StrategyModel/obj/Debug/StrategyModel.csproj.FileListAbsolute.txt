@@ -1,0 +1,9 @@
+D:\CS\StrategyModel\StrategyModel\bin\Debug\StrategyModel.exe.config
+D:\CS\StrategyModel\StrategyModel\bin\Debug\StrategyModel.exe
+D:\CS\StrategyModel\StrategyModel\bin\Debug\StrategyModel.pdb
+D:\CS\StrategyModel\StrategyModel\obj\Debug\StrategyModel.csprojResolveAssemblyReference.cache
+D:\CS\StrategyModel\StrategyModel\obj\Debug\StrategyModel.Properties.Resources.resources
+D:\CS\StrategyModel\StrategyModel\obj\Debug\StrategyModel.csproj.GenerateResource.Cache
+D:\CS\StrategyModel\StrategyModel\obj\Debug\StrategyModel.exe
+D:\CS\StrategyModel\StrategyModel\obj\Debug\StrategyModel.pdb
+D:\CS\StrategyModel\StrategyModel\obj\Debug\StrategyModel.Form1.resources
